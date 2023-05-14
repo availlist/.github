@@ -1,3 +1,5 @@
+![AvailList banner](https://availlist.s3.fr-par.scw.cloud/logo_banner.png)
+
 # Introduction
 
 AvailList is a software company committed to providing film crew management services to production companies and studios. Founded by industry professionals with experience in both the entertainment industry and software development, our focus is on streamlining the process of managing film crew availability.
