@@ -1,4 +1,4 @@
-![AvailList banner](https://availlist.s3.fr-par.scw.cloud/logo_banner.png)
+![AvailList banner](https://availlist.s3.fr-par.scw.cloud/logo_banner_narrow.png)
 
 # Introduction
 
